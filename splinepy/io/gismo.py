@@ -26,7 +26,7 @@ class AdditionalBlocks:
         dim,
         function_list,
         bc_list,
-        cv_list=None,
+        cv_list=[],
         unknown_id=0,
         multipatch_id=0,
         comment=None,
